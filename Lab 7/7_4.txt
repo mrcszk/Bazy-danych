@@ -1,0 +1,10 @@
+MetodaP³atnoœci : {metodaP³Nr}
+Klient : {klientNr}
+Artyku³ : {artyku³Nr}
+Pracownik : {pracownikNr}
+SposóbTransportu : {sposóbTrNr}
+
+Faktura : {fakturaNr, metodaP³Nr, zamówienieNr}
+Zamówienie : {zamówienieNr, klientNr, pracownikNr}
+Szczegó³yZamowienia : {_, artyku³Nr, zamówienieNr}
+Transport : {transportNr, _, pracownikNr, sposóbTrNr}
